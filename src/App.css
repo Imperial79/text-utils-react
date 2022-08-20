@@ -1,0 +1,16 @@
+.app-container{
+    background-color: yellowgreen;
+}
+.heading-style{
+    color: white;
+    font-weight: bolder;
+    font-family: 'product sans';
+}
+.para-style{
+    padding: 10px;
+    font-weight: 100;
+    font-family: 'product sans';
+    font-size: 20px;
+    color: white;
+    text-align: start;
+}
